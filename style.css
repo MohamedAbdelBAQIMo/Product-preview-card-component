@@ -39,12 +39,10 @@ body{
     overflow: hidden;
     transition: 0.5s ease-in-out;
 }
-}
 #logo{
     font-family: Fraunces;
     color:hsl(228, 12%, 48%);
     overflow: hidden;
-    transition: 0.5s ease-in-out;
 }
 #maint{
     font-family: Montserrat;
