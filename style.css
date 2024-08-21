@@ -11,7 +11,6 @@ body{
     max-width: 300px;
     margin: 20px;
     padding: 40px;
-    transition: 0.5s ease-in;
     border-radius: 25px;
     align-items: center;
 }
