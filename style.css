@@ -41,8 +41,7 @@ body{
 }
 #logo{
     font-family: Fraunces;
-    color:hsl(228, 12%, 48%);
-    overflow: hidden;
+    color: hsl(228, 12%, 48%);
 }
 #maint{
     font-family: Montserrat;
