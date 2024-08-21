@@ -1,0 +1,103 @@
+body{
+    background-color:hsl(30, 38%, 92%);
+}
+.container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0;
+      overflow: hidden;
+      transition: 0.5s ease-in-out;
+}
+.lc{
+    max-width: 300px;
+    margin: 20px;
+    padding: 40px;
+    transition: 0.5s ease-in;
+    border-radius: 25px;
+    align-items: center;
+}
+.rc {
+    max-width: 300px;
+    height: 400px;
+    margin: 200px auto;
+    padding: 60px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+    align-items: center;
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+
+#img{
+    max-width: 345px;
+    margin-top:140px;
+    margin-right: 200px;
+    margin-left: 100px;
+    margin-bottom: 300px;
+    border-radius: 70px;
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+}
+#logo{
+    font-family: Fraunces;
+    color:hsl(228, 12%, 48%);
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+#maint{
+    font-family: Montserrat;
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+#describe{
+    font-family: Montserrat;
+    color:hsl(228, 12%, 48%);
+    Font-size: 14px;
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+#np{
+    font-family: Fraunces;
+    font-size: 50px;
+    color:hsl(228, 12%, 48%);
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+#op{
+    font-family: Montserrat;
+    text-decoration-line: line-through; 
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+#btn{
+    background-color:hsl(228, 12%, 48%);
+    margin-left:auto;
+    margin-right:auto;
+    display:block ;
+    margin-top:22%;
+    margin-bottom:0%;
+    font-size: 14px;
+    color:white;
+    font-family: Montserrat;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: 0.5s ease-in;
+}
+#btnimg{
+    max-width: 100px;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+.attribution {
+     font-size: 11px; text-align: center; 
+     overflow: hidden;
+     transition: 0.5s ease-in-out;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
